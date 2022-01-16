@@ -6,7 +6,7 @@ const data = {
       title: 'title',
       flavor: 'flavor',
       category: 'category',
-      image: '/images/coffee/mureaKavutiri.jpg',
+      image: 'http://localhost:8000/images/coffee/mureaKavutiri.jpg',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla, placeat!',
       price: 16,
@@ -17,7 +17,7 @@ const data = {
       title: 'title',
       flavor: 'flavor',
       category: 'category',
-      image: '/images/coffee/mureaKavutiri.jpg',
+      image: 'http://localhost:8000/images/coffee/mureaKavutiri.jpg',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla, placeat!',
       price: 12,

@@ -37,7 +37,7 @@ module.exports = {
     new HtmlWebpackPlugin({
       title: 'EGO COFFE',
       template: path.resolve(__dirname, '..', './src/template/template.html'),
-      favicon: path.resolve(__dirname, '..', './public/favicon.ico'),
+      favicon: path.resolve(__dirname, '..', './images/favicon.ico'),
       filename: 'index.html',
     }),
   ],
